@@ -5,8 +5,6 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DESPDKExample", "des-pdk-example\DESPDKExample.csproj", "{A51D96D8-55DE-418E-AE22-131D25F2D4FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TcpsockExample", "TcpsockExample\TcpsockExample.csproj", "{1CA49883-F3EA-4015-8CE5-F49D2B8F3C91}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -7,10 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="PDK">
-      <HintPath>PDK.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
